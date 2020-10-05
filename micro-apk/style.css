@@ -1,0 +1,32 @@
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 20px;
+}
+
+* a{
+    color: yellow;
+}
+.container{
+    width: 800px;
+    margin: 0 auto !important;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+
+.form{
+    padding: 30px 50px !important;
+}
+
+.btn{
+    background-color: yellow;
+    padding: 10px !important;
+    border: purple;
+}
+.btn:hover{
+    background-color: whitesmoke;
+    padding: 10px 15px !important;
+    transition: 0.5s;
+    color: purple;
+}
